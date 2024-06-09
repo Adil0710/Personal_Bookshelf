@@ -36,7 +36,17 @@ To set up the project locally, follow these steps:
    ```bash
    npm install
    
+##Usage
 
+###Running the Application
+
+To run the application on your local machine, follow these steps:
+
+1. To run the application on your local machine, follow these steps:
+  ```bash
+  npm run dev
+
+2. Open a web browser and navigate to http://localhost:3000 to view the application.
 
 # Getting Started with Create React App
 

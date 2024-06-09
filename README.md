@@ -1,3 +1,36 @@
+# Personal Bookshelf
+
+This project is a personal bookshelf application where users can search for books and add them to their personal bookshelf.
+
+## Table of Contents
+
+- [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+  - [Running the Application](#running-the-application)
+
+## Setup
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have `Node.js` and `npm` installed on your local machine.
+
+### Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/Adil0710/Personal_Bookshelf.git
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

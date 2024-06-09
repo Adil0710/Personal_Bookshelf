@@ -36,9 +36,9 @@ To set up the project locally, follow these steps:
    ```bash
    npm install
    
-##Usage
+## Usage
 
-###Running the Application
+### Running the Application
 
 To run the application on your local machine, follow these steps:
 

@@ -28,7 +28,14 @@ To set up the project locally, follow these steps:
    git clone https://github.com/Adil0710/Personal_Bookshelf.git
 
 
+2. Navigate to the project directory:
+   ```bash
+   cd Personal_Bookshelf
 
+3. Install the project dependencies:
+   ```bash
+   npm install
+   
 
 
 # Getting Started with Create React App
